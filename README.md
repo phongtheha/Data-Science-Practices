@@ -1,2 +1,2 @@
 # Data-Science-Practices
-Data Science Labs
+Data Science projects as jupyter notebooks
